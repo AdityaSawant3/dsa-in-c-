@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-
+// Time Complexity: O(n^2)
+// Space Complexity: O(1)
 class SelectionSort {
 public:
 	void sort(int* arr, int size) {
